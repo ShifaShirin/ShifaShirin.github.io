@@ -4,6 +4,7 @@
 A fab lab (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication.[1][2]
 
 A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make "almost anything".[3] This includes technology-enabled products generally perceived as limited to mass production.
+<img src="fablab.jpg" height="400" width="712">
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
