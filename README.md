@@ -7,11 +7,13 @@ A fab lab is typically equipped with an array of flexible computer-controlled to
 
 <img src="fablab.jpg" height="300" width="512">
 
-### Syllabus
+### Course Progress
+
+[Syllabus]()
 
 Day 1
-* [Indroduction To Fablab!]()
-* Github Pages and Documentation
+* [Indroduction To Fablab]()
+* [Github Pages and Documentation]()
 
 Day 3
 
