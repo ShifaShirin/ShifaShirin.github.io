@@ -1,43 +1,66 @@
 ## My Fablab Documentation
 
 ### What is a fablab?
-A fab lab (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication.
+A fab lab (fabrication laboratory) is a small-scale workshop offering digital fabrication.
 
 A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make "almost anything". This includes technology-enabled products generally perceived as limited to mass production.
 
 <img src="fablab.jpg" height="300" width="512">
 
+Course Progress
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Syllabus
 
-### Markdown
+Day 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Indroduction To Fablab
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Github Pages and Documentation
+Day 3
 
-- Bulleted
-- List
+3D Printing
 
-1. Numbered
-2. List
+First 3D Model
 
-**Bold** and _Italic_ and `Code` text
+Hanging Bag Case and Holder for Charging Cell Phone
 
-[Link](url) and ![Image](src)
-```
+Dice-Rough Work
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Octopus Mobile Stand
 
-### Jekyll Themes
+Day 4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShifaShirin/ShifaShirin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Laser Cutting
 
-### Support or Contact
+Keychain Design
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Engraving
+
+Day 5
+
+Vinyl Cutting
+
+Sticker Making
+
+Text Cutting
+
+Day 6
+
+Indroduction to Eagle
+
+Electronics Production
+
+PCB Milling(Shopbot)
+
+Day 7
+
+Screen Printing
+
+T-Shirt Printing
+
+Casting & Moulding
+
+Ring Shape Mould
+
+
