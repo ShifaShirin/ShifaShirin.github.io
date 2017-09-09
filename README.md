@@ -10,8 +10,8 @@ A fab lab is typically equipped with an array of flexible computer-controlled to
 ### Syllabus
 
 Day 1
-* Indroduction To Fablab()
-* Github Pages and Documentation()
+* [Indroduction To Fablab!]()
+* Github Pages and Documentation
 
 Day 3
 
