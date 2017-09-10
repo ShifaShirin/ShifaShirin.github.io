@@ -10,23 +10,18 @@ A fab lab is typically equipped with an array of flexible computer-controlled to
 ### Course Progress
 
 [Syllabus]()
-[introduction]
+
 
 Day 1
 * [Indroduction To Fablab]()
 * [Github Pages and Documentation]()
 
-Day 3
-
-3D Printing
+Day 2
+* [3D Printing]()
+* [Vinyl Cutting]()
 
 First 3D Model
 
-Hanging Bag Case and Holder for Charging Cell Phone
-
-Dice-Rough Work
-
-Octopus Mobile Stand
 
 Day 4
 
@@ -38,7 +33,7 @@ Engraving
 
 Day 5
 
-Vinyl Cutting
+
 
 Sticker Making
 
