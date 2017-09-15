@@ -13,7 +13,7 @@ A fab lab is typically equipped with an array of flexible computer-controlled to
 
 
 Day 1
-* [Indroduction To Fablab](http//:intro.com/)
+* [Indroduction To Fablab](http//:shifashirin.github.io/intro.md/)
 * [Github Pages and Documentation]()
 
 Day 2
